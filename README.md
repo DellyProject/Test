@@ -6,3 +6,5 @@ I worry about branches and merging because I have no idea what the other person 
 I should not be worried about branches and merging because I am practicing right now.
 
 I think I should write down the most important commands and what they do
+
+This branch is way behind! I have done work on the master branch!
